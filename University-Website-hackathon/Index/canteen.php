@@ -34,10 +34,10 @@
                             class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item pl-3">
-                    <a class="nav-link" href="canteen.html" style="color: white;"><b>Canteen service</b> </span></a>
+                    <a class="nav-link" href="canteen.php" style="color: white;"><b>Canteen service</b> </span></a>
                 </li>
                 <li class="nav-item pl-3">
-                    <a class="nav-link" href="lost1.html" style="color: white;"><b>Lost and found service</b></a>
+                    <a class="nav-link" href="lost1.php" style="color: white;"><b>Lost and found service</b></a>
                 </li>
             </ul>
             
