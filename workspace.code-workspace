@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Desktop\\University-Website-hackathon"
+		},
+		{
+			"path": "..\\..\\..\\..\\Desktop\\canteen"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "canteen"
+	}
+}
