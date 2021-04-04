@@ -29,14 +29,14 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active pl-3">
-                    <a class="nav-link" href="index.html" style="color: white" ;><b>Home</b> <span
+                    <a class="nav-link" href="index.php" style="color: white" ;><b>Home</b> <span
                             class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item pl-3">
-                    <a class="nav-link" href="canteen/canteen.html" style="color: white;"><b>Canteen service</b> </span></a>
+                    <a class="nav-link" href="canteen.php" style="color: white;"><b>Canteen service</b> </span></a>
                 </li>
                 <li class="nav-item pl-3">
-                    <a class="nav-link" href="lostandfound/lost1.html" style="color: white;"><b>Lost and found service</b></a>
+                    <a class="nav-link" href="lost1.php" style="color: white;"><b>Lost and found service</b></a>
                 </li>
             </ul>
            
