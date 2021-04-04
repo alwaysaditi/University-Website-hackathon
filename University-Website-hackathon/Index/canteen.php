@@ -30,7 +30,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active pl-3">
-                    <a class="nav-link" href="index.html" style="color: white" ;><b>Home</b> <span
+                    <a class="nav-link" href="index.php" style="color: white" ;><b>Home</b> <span
                             class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item pl-3">
@@ -155,7 +155,7 @@
                     <h2 class="mb-4">Feeling hungry? Place your order now!</h2>
                 </div>
                 <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
-                    <a class="btn btn-primary" href="order-form.php">Place Your Order</a>
+                    <a class="btn btn-primary" href="order-form.php?name='$username'">Place Your Order</a>
                 </div>
             </div>
         </div>
@@ -200,3 +200,7 @@
 </body>
 
 </html>
+
+<?php
+$username = $_GET['name'];
+?>
