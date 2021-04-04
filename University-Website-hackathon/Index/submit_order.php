@@ -32,7 +32,7 @@ $sql =  "INSERT INTO `canteen` (`c_name`,`c_email`,`c_order`,`specs`,`pickup_tim
  VALUES ('$name','$c_email','$order','$specs','$datetime')";
 
 if($conn->query($sql)==TRUE){
-    echo "<h1><center> Your order is placed successfully</center></h1>\n<br>";
+    echo "<h1><center> Your order is placed successfully</center></h1>\n<br><br><br><br><br><br><br>";
     $query1="SELECT * from canteen where c_name='$name'";
     $result = $conn->query($query1);
     
